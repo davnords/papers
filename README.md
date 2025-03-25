@@ -14,6 +14,7 @@ I categorize papers by those I have read and those I have yet to read.
 
 ### Self-supervised learning
 * ✅ 03/2025 [DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/abs/2304.07193)
+* ✅ 03/2025 [Cluster and Predict Latent Patches for Improved Masked Image Modeling]([https://arxiv.org/abs/2304.07193](https://arxiv.org/abs/2502.08769))
 * ❌ [Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://arxiv.org/abs/2006.07733)
 * ❌ [Mean Teachers are Better Role Models: Weight-Averaged Consistency Targets Improve Semi-Supervised Deep Learning Results](https://arxiv.org/abs/1703.01780)
 * ❌ [iBOT: Image BERT Pre-Training with Online Tokenizer](https://arxiv.org/abs/2111.07832)
