@@ -1,5 +1,5 @@
 # Papers
-Here I simply list the papers I read and that I want to read. Inspiration: (https://github.com/fregu856/papers)[here].
+Here I simply list the papers I read and that I want to read. Inspiration: [here](https://github.com/fregu856/papers).
 
 ## Taxonomy
 I categorize papers by those I have read and those I have yet to read.
