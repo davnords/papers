@@ -32,9 +32,11 @@ I categorize papers by those I have read and those I have yet to read.
 * ❌ [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
 
 ### Geometric Deep Learning
+* ❌ [Graph Attention Networks](https://arxiv.org/abs/1710.10903)
 
 ### NLP 
 * ❌ [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 
 ### General Deep Learning 
 * ❌ [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
+* ❌ [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)
