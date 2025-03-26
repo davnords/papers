@@ -1,5 +1,5 @@
 # Papers
-Here I simply list the papers I read and that I want to read. Inspiration: [here](https://github.com/fregu856/papers).
+I like reading about Deep Learning and Computer Vision. Here I simply list the papers I read and that I want to read. Inspiration: [here](https://github.com/fregu856/papers).
 
 ## Taxonomy
 I categorize papers by those I have read and those I have yet to read.
@@ -22,13 +22,14 @@ I categorize papers by those I have read and those I have yet to read.
 
 ### 3D Computer Vision
 * ✅ 03/2025: [VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/abs/2503.11651)
-* ❌ [DKM: Dense Kernelized Feature Matching for Geometry Estimation](https://arxiv.org/abs/2202.00667)
+* ✅ 03/2025: [DKM: Dense Kernelized Feature Matching for Geometry Estimation](https://arxiv.org/abs/2202.00667)
 * ❌ [RoMa: Robust dense feature matching](https://arxiv.org/abs/2305.15404)
 * ❌ [DeDoDe: Detect, don’t describe—Describe, don’t detect for local feature matching](https://arxiv.org/abs/2308.08479)
 * ❌ [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)
 
 ### General Computer Vision
 * ✅ 03/2025 [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
+* ✅ 03/2025 [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/abs/2404.02905)
 * ❌ [Segment Anything (SAM)](https://arxiv.org/abs/2304.02643)
 * ❌ [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
 * ❌ [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/abs/2103.00020)
