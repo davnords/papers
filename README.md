@@ -25,11 +25,13 @@ I categorize papers by those I have read and those I have yet to read.
 * ❌ [DKM: Dense Kernelized Feature Matching for Geometry Estimation](https://arxiv.org/abs/2202.00667)
 * ❌ [RoMa: Robust dense feature matching](https://arxiv.org/abs/2305.15404)
 * ❌ [DeDoDe: Detect, don’t describe—Describe, don’t detect for local feature matching](https://arxiv.org/abs/2308.08479)
+* ❌ [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)
 
 ### General Computer Vision
 * ✅ 03/2025 [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
 * ❌ [Segment Anything (SAM)](https://arxiv.org/abs/2304.02643)
 * ❌ [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
+* ❌ [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/abs/2103.00020)
 
 ### Geometric Deep Learning
 * ❌ [Graph Attention Networks](https://arxiv.org/abs/1710.10903)
@@ -40,3 +42,5 @@ I categorize papers by those I have read and those I have yet to read.
 ### General Deep Learning 
 * ❌ [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
 * ❌ [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)
+* ❌ [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177)
+
