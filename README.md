@@ -26,11 +26,11 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 ### 3D Computer Vision
 * ✅ 03/2025: [VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/abs/2503.11651)
 * ✅ 03/2025: [DKM: Dense Kernelized Feature Matching for Geometry Estimation](https://arxiv.org/abs/2202.00667)
+* ✅ 03/2025: [Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors](https://arxiv.org/abs/2503.17316)
 * ❌ [RoMa: Robust dense feature matching](https://arxiv.org/abs/2305.15404)
 * ❌ [DeDoDe: Detect, don’t describe—Describe, don’t detect for local feature matching](https://arxiv.org/abs/2308.08479)
 * ❌ [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)
 * ❌ [MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion](https://arxiv.org/abs/2409.19152)
-* ❌ [Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors](https://arxiv.org/abs/2503.17316)
 
 ### General Computer Vision
 * ✅ 03/2025 [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
