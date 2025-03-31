@@ -22,11 +22,13 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Mean Teachers are Better Role Models: Weight-Averaged Consistency Targets Improve Semi-Supervised Deep Learning Results](https://arxiv.org/abs/1703.01780)
 * ❌ [iBOT: Image BERT Pre-Training with Online Tokenizer](https://arxiv.org/abs/2111.07832)
 * ❌ [Emerging Properties in Self-Supervised Vision Transformers](https://openaccess.thecvf.com/content/ICCV2021/html/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.html)
+* ❌ [Scaling Vision Pre-Training to 4K Resolution](https://arxiv.org/abs/2503.19903v1)
 
 ### 3D Computer Vision
 * ✅ 03/2025: [VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/abs/2503.11651)
 * ✅ 03/2025: [DKM: Dense Kernelized Feature Matching for Geometry Estimation](https://arxiv.org/abs/2202.00667)
 * ✅ 03/2025: [Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors](https://arxiv.org/abs/2503.17316)
+* ❌ [MVSAnywhere: Zero-Shot Multi-View Stereo](https://nianticlabs.github.io/mvsanywhere/resources/MVSAnywhere.pdf)
 * ❌ [RoMa: Robust dense feature matching](https://arxiv.org/abs/2305.15404)
 * ❌ [DeDoDe: Detect, don’t describe—Describe, don’t detect for local feature matching](https://arxiv.org/abs/2308.08479)
 * ❌ [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)
