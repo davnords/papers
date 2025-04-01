@@ -23,6 +23,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [iBOT: Image BERT Pre-Training with Online Tokenizer](https://arxiv.org/abs/2111.07832)
 * ❌ [Emerging Properties in Self-Supervised Vision Transformers](https://openaccess.thecvf.com/content/ICCV2021/html/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.html)
 * ❌ [Scaling Vision Pre-Training to 4K Resolution](https://arxiv.org/abs/2503.19903v1)
+* ❌ [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
 
 ### 3D Computer Vision
 * ✅ 03/2025: [VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/abs/2503.11651)
