@@ -30,6 +30,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ✅ 03/2025: [VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/abs/2503.11651)
 * ✅ 03/2025: [DKM: Dense Kernelized Feature Matching for Geometry Estimation](https://arxiv.org/abs/2202.00667)
 * ✅ 03/2025: [Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors](https://arxiv.org/abs/2503.17316)
+* ✅ 03/2025: [DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection](https://arxiv.org/abs/2503.07347)
 * ❌ [MVSAnywhere: Zero-Shot Multi-View Stereo](https://nianticlabs.github.io/mvsanywhere/resources/MVSAnywhere.pdf)
 * ❌ [Feat2GS: Probing Visual Foundation Models with Gaussian Splatting](https://arxiv.org/abs/2412.09606)
 * ❌ [RoMa: Robust dense feature matching](https://arxiv.org/abs/2305.15404)
