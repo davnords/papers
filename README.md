@@ -44,6 +44,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Segment Anything (SAM)](https://arxiv.org/abs/2304.02643)
 * ❌ [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
 * ❌ [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/abs/2103.00020)
+* ❌ [OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels](https://arxiv.org/abs/2502.20087v2)
 
 ### Geometric Deep Learning
 * ❌ [Graph Attention Networks](https://arxiv.org/abs/1710.10903)
