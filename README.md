@@ -12,9 +12,9 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 
 ----
 
-## 2025
+## List
 
-### Self-supervised learning
+### Self-supervised learning in Computer Vision
 * ✅ 03/2025 [DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/abs/2304.07193)
 * ✅ 03/2025 [Cluster and Predict Latent Patches for Improved Masked Image Modeling](https://arxiv.org/abs/2502.08769)
 * 🚀 03/2025 [Simplifying DINO via Coding Rate Regularization](https://arxiv.org/abs/2502.10385)
@@ -25,6 +25,8 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Scaling Vision Pre-Training to 4K Resolution](https://arxiv.org/abs/2503.19903v1)
 * ❌ [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
 * ❌ [Generative Pretraining from Pixels](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)
+* ❌ [SimMIM: A Simple Framework for Masked Image Modeling](https://arxiv.org/abs/2111.09886)
+* ❌ [MultiMAE: Multi-modal Multi-task Masked Autoencoders](https://arxiv.org/abs/2204.01678)
 
 ### 3D Computer Vision
 * ✅ 03/2025: [VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/abs/2503.11651)
