@@ -48,6 +48,8 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
 * ❌ [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/abs/2103.00020)
 * ❌ [OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels](https://arxiv.org/abs/2502.20087v2)
+* ❌ [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545)
+* ❌ [Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877)
 
 ### Geometric Deep Learning
 * ❌ [Graph Attention Networks](https://arxiv.org/abs/1710.10903)
