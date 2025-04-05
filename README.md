@@ -15,17 +15,17 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 ## List
 
 ### Self-supervised learning in Computer Vision
-* ✅ 03/2025 [DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/abs/2304.07193)
-* ✅ 03/2025 [Cluster and Predict Latent Patches for Improved Masked Image Modeling](https://arxiv.org/abs/2502.08769)
-* 🚀 03/2025 [Simplifying DINO via Coding Rate Regularization](https://arxiv.org/abs/2502.10385)
+* ✅ 03/2025: [DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/abs/2304.07193)
+* ✅ 03/2025: [Cluster and Predict Latent Patches for Improved Masked Image Modeling](https://arxiv.org/abs/2502.08769)
+* 🚀 03/2025: [Simplifying DINO via Coding Rate Regularization](https://arxiv.org/abs/2502.10385)
+* ✅ 04/2025: [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
+* ✅ 04/2025: [SimMIM: A Simple Framework for Masked Image Modeling](https://arxiv.org/abs/2111.09886)
 * ❌ [Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://arxiv.org/abs/2006.07733)
 * ❌ [Mean Teachers are Better Role Models: Weight-Averaged Consistency Targets Improve Semi-Supervised Deep Learning Results](https://arxiv.org/abs/1703.01780)
 * ❌ [iBOT: Image BERT Pre-Training with Online Tokenizer](https://arxiv.org/abs/2111.07832)
 * ❌ [Emerging Properties in Self-Supervised Vision Transformers](https://openaccess.thecvf.com/content/ICCV2021/html/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.html)
 * ❌ [Scaling Vision Pre-Training to 4K Resolution](https://arxiv.org/abs/2503.19903v1)
-* ❌ [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
 * ❌ [Generative Pretraining from Pixels](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)
-* ❌ [SimMIM: A Simple Framework for Masked Image Modeling](https://arxiv.org/abs/2111.09886)
 * ❌ [MultiMAE: Multi-modal Multi-task Masked Autoencoders](https://arxiv.org/abs/2204.01678)
 
 ### 3D Computer Vision
@@ -50,6 +50,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels](https://arxiv.org/abs/2502.20087v2)
 * ❌ [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545)
 * ❌ [Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877)
+* ❌ [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030)
 
 ### Geometric Deep Learning
 * ❌ [Graph Attention Networks](https://arxiv.org/abs/1710.10903)
