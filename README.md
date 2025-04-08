@@ -41,6 +41,9 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion](https://arxiv.org/abs/2409.19152)
 * ❌ [Feat2GS: Probing Visual Foundation Models with Gaussian Splatting](https://arxiv.org/abs/2412.09606)
 
+### Diffusion
+* ❌ [One-Minute Video Generation with Test-Time Training](https://arxiv.org/abs/2504.05298)
+
 ### General Computer Vision
 * ✅ 03/2025 [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
 * ✅ 03/2025 [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/abs/2404.02905)
