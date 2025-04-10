@@ -41,6 +41,8 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)
 * ❌ [MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion](https://arxiv.org/abs/2409.19152)
 * ❌ [Feat2GS: Probing Visual Foundation Models with Gaussian Splatting](https://arxiv.org/abs/2412.09606)
+AM Radio - Nvidia
+
 
 ### Diffusion
 * ❌ [One-Minute Video Generation with Test-Time Training](https://arxiv.org/abs/2504.05298)
@@ -67,3 +69,5 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)
 * ❌ [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177)
 
+## Books
+Understanding Deep Learning  https://udlbook.github.io/udlbook/
