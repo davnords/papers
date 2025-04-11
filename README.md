@@ -41,7 +41,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)
 * ❌ [MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion](https://arxiv.org/abs/2409.19152)
 * ❌ [Feat2GS: Probing Visual Foundation Models with Gaussian Splatting](https://arxiv.org/abs/2412.09606)
-AM Radio - Nvidia
+* ❌ [AM-RADIO: Agglomerative Vision Foundation Model -- Reduce All Domains Into One](https://arxiv.org/abs/2312.06709)
 
 
 ### Diffusion
@@ -70,4 +70,6 @@ AM Radio - Nvidia
 * ❌ [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177)
 
 ## Books
-Understanding Deep Learning  https://udlbook.github.io/udlbook/
+* ❌ [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+* ❌ [Foundations of Computer Vision](https://visionbook.mit.edu/taxonomy.html#helmholtz-perception-as-inference)
+* ❌ [Reinforcement Learning an Introduction](http://incompleteideas.net/book/RLbook2020.pdf)
