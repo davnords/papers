@@ -48,8 +48,8 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [One-Minute Video Generation with Test-Time Training](https://arxiv.org/abs/2504.05298)
 
 ### General Computer Vision
-* ✅ 03/2025 [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
-* ✅ 03/2025 [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/abs/2404.02905)
+* ✅ 03/2025: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
+* ✅ 03/2025: [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/abs/2404.02905)
 * ❌ [Segment Anything (SAM)](https://arxiv.org/abs/2304.02643)
 * ❌ [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
 * ❌ [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/abs/2103.00020)
@@ -62,7 +62,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Graph Attention Networks](https://arxiv.org/abs/1710.10903)
 
 ### NLP 
-* ❌ [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+* ✅ 04/2025: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 
 ### General Deep Learning 
 * ❌ [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
