@@ -73,3 +73,8 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 * ❌ [Foundations of Computer Vision](https://visionbook.mit.edu/taxonomy.html#helmholtz-perception-as-inference)
 * ❌ [Reinforcement Learning an Introduction](http://incompleteideas.net/book/RLbook2020.pdf)
+
+## Blocks
+* ❌ [Generative modelling in latent space](https://sander.ai/2025/04/15/latents.html)
+* ❌ [Noise schedules considered harmful](https://sander.ai/2024/06/14/noise-schedules.html)
+* ❌ [Diffusion is spectral autoregression](https://sander.ai/2024/09/02/spectral-autoregression.html)
