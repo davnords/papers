@@ -43,9 +43,10 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Feat2GS: Probing Visual Foundation Models with Gaussian Splatting](https://arxiv.org/abs/2412.09606)
 * ❌ [AM-RADIO: Agglomerative Vision Foundation Model -- Reduce All Domains Into One](https://arxiv.org/abs/2312.06709)
 
-
-### Diffusion
+### Image Genearation / Diffusion
 * ❌ [One-Minute Video Generation with Test-Time Training](https://arxiv.org/abs/2504.05298)
+* ❌ [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937)
+* ❌ [Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2012.09841)
 
 ### General Computer Vision
 * ✅ 03/2025: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
@@ -68,6 +69,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
 * ❌ [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)
 * ❌ [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177)
+* ❌ [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
 
 ## Books
 * ❌ [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
