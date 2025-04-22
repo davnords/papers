@@ -47,6 +47,9 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [One-Minute Video Generation with Test-Time Training](https://arxiv.org/abs/2504.05298)
 * ❌ [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937)
 * ❌ [Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2012.09841)
+*  https://arxiv.org/pdf/2503.09641
+*  https://arxiv.org/abs/2105.03404
+*  https://arxiv.org/pdf/2105.01601
 
 ### General Computer Vision
 * ✅ 03/2025: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
