@@ -47,9 +47,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [One-Minute Video Generation with Test-Time Training](https://arxiv.org/abs/2504.05298)
 * ❌ [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937)
 * ❌ [Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2012.09841)
-*  https://arxiv.org/pdf/2503.09641
-*  https://arxiv.org/abs/2105.03404
-*  https://arxiv.org/pdf/2105.01601
+* ❌ [SANA-Sprint: One-Step Diffusion with Continuous-Time Consistency Distillation](https://arxiv.org/pdf/2503.09641)
 
 ### General Computer Vision
 * ✅ 03/2025: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
@@ -61,6 +59,11 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545)
 * ❌ [Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877)
 * ❌ [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030)
+* ❌ [ResMLP: Feedforward networks for image classification with data-efficient training](https://arxiv.org/abs/2105.03404)
+* ❌ [MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/pdf/2105.01601)
+* ❌ [Scaling Vision Transformers to 22 Billion Parameters](https://arxiv.org/abs/2302.05442)
+* ❌ [Better plain ViT baselines for ImageNet-1k](https://arxiv.org/pdf/2205.01580)
+* ❌ [Getting ViT in Shape: Scaling Laws for Compute-Optimal Model Design](https://proceedings.neurips.cc/paper_files/paper/2023/file/3504a4fa45685d668ce92797fbbf1895-Paper-Conference.pdf)
 
 ### Geometric Deep Learning
 * ❌ [Graph Attention Networks](https://arxiv.org/abs/1710.10903)
