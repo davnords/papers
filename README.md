@@ -62,7 +62,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [ResMLP: Feedforward networks for image classification with data-efficient training](https://arxiv.org/abs/2105.03404)
 * ❌ [MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/pdf/2105.01601)
 * ❌ [Scaling Vision Transformers to 22 Billion Parameters](https://arxiv.org/abs/2302.05442)
-* ❌ [Better plain ViT baselines for ImageNet-1k](https://arxiv.org/pdf/2205.01580)
+* ✅ [Better plain ViT baselines for ImageNet-1k](https://arxiv.org/pdf/2205.01580)
 * ❌ [Getting ViT in Shape: Scaling Laws for Compute-Optimal Model Design](https://proceedings.neurips.cc/paper_files/paper/2023/file/3504a4fa45685d668ce92797fbbf1895-Paper-Conference.pdf)
 
 ### Geometric Deep Learning
