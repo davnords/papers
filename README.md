@@ -48,6 +48,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937)
 * ❌ [Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2012.09841)
 * ❌ [SANA-Sprint: One-Step Diffusion with Continuous-Time Consistency Distillation](https://arxiv.org/pdf/2503.09641)
+* ❌ [Consistency Models](https://arxiv.org/abs/2303.01469)
 
 ### General Computer Vision
 * ✅ 03/2025: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
