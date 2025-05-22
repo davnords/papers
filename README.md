@@ -43,6 +43,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Feat2GS: Probing Visual Foundation Models with Gaussian Splatting](https://arxiv.org/abs/2412.09606)
 * ❌ [AM-RADIO: Agglomerative Vision Foundation Model -- Reduce All Domains Into One](https://arxiv.org/abs/2312.06709)
 * ❌ [RayZer: A Self-supervised Large View Synthesis Model](https://arxiv.org/abs/2505.00702)
+* ❌ [Cross-View Completion Models are Zero-shot Correspondence Estimators](https://arxiv.org/abs/2412.09072)
 
 ### Image Genearation / Diffusion
 * ❌ [One-Minute Video Generation with Test-Time Training](https://arxiv.org/abs/2504.05298)
