@@ -82,6 +82,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177)
 * ❌ [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
 
+https://transformer-circuits.pub/2025/attribution-graphs/biology.html 
 ## Books
 * ❌ [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 * ❌ [Foundations of Computer Vision](https://visionbook.mit.edu/taxonomy.html#helmholtz-perception-as-inference)
