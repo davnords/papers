@@ -28,6 +28,8 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Generative Pretraining from Pixels](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)
 * ❌ [MultiMAE: Multi-modal Multi-task Masked Autoencoders](https://arxiv.org/abs/2204.01678)
 * ❌ [MOCA: Self-supervised Representation Learning by Predicting Masked Online Codebook Assignments](https://arxiv.org/abs/2307.09361)
+* ❌ [Scaling Language-Free Visual Representation Learning](https://arxiv.org/abs/2504.01017)
+
 
 ### 3D Computer Vision
 * ✅ 03/2025: [VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/abs/2503.11651)
