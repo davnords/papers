@@ -20,9 +20,9 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * 🚀 03/2025: [Simplifying DINO via Coding Rate Regularization](https://arxiv.org/abs/2502.10385)
 * ✅ 04/2025: [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
 * ✅ 04/2025: [SimMIM: A Simple Framework for Masked Image Modeling](https://arxiv.org/abs/2111.09886)
+* ✅ 05/2025: [iBOT: Image BERT Pre-Training with Online Tokenizer](https://arxiv.org/abs/2111.07832)
 * ❌ [Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://arxiv.org/abs/2006.07733)
 * ❌ [Mean Teachers are Better Role Models: Weight-Averaged Consistency Targets Improve Semi-Supervised Deep Learning Results](https://arxiv.org/abs/1703.01780)
-* ❌ [iBOT: Image BERT Pre-Training with Online Tokenizer](https://arxiv.org/abs/2111.07832)
 * ❌ [Emerging Properties in Self-Supervised Vision Transformers](https://openaccess.thecvf.com/content/ICCV2021/html/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.html)
 * ❌ [Scaling Vision Pre-Training to 4K Resolution](https://arxiv.org/abs/2503.19903v1)
 * ❌ [Generative Pretraining from Pixels](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)
@@ -48,11 +48,11 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Cross-View Completion Models are Zero-shot Correspondence Estimators](https://arxiv.org/abs/2412.09072)
 
 ### Image Genearation / Diffusion
+* ✅ 05/2025: [Consistency Models](https://arxiv.org/abs/2303.01469)
 * ❌ [One-Minute Video Generation with Test-Time Training](https://arxiv.org/abs/2504.05298)
 * ❌ [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937)
 * ❌ [Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2012.09841)
 * ❌ [SANA-Sprint: One-Step Diffusion with Continuous-Time Consistency Distillation](https://arxiv.org/pdf/2503.09641)
-* ❌ [Consistency Models](https://arxiv.org/abs/2303.01469)
 
 ### General Computer Vision
 * ✅ 03/2025: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
@@ -81,8 +81,8 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)
 * ❌ [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177)
 * ❌ [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
-
-https://transformer-circuits.pub/2025/attribution-graphs/biology.html 
+* ❌ [On the Biology of LLMs](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
+ 
 ## Books
 * ❌ [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 * ❌ [Foundations of Computer Vision](https://visionbook.mit.edu/taxonomy.html#helmholtz-perception-as-inference)
