@@ -21,7 +21,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ✅ 04/2025: [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
 * ✅ 04/2025: [SimMIM: A Simple Framework for Masked Image Modeling](https://arxiv.org/abs/2111.09886)
 * ✅ 05/2025: [iBOT: Image BERT Pre-Training with Online Tokenizer](https://arxiv.org/abs/2111.07832)
-* ❌ [Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://arxiv.org/abs/2006.07733)
+* ✅ 06/2025: [Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://arxiv.org/abs/2006.07733)
 * ❌ [Mean Teachers are Better Role Models: Weight-Averaged Consistency Targets Improve Semi-Supervised Deep Learning Results](https://arxiv.org/abs/1703.01780)
 * ❌ [Emerging Properties in Self-Supervised Vision Transformers](https://openaccess.thecvf.com/content/ICCV2021/html/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.html)
 * ❌ [Scaling Vision Pre-Training to 4K Resolution](https://arxiv.org/abs/2503.19903v1)
