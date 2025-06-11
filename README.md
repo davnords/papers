@@ -69,7 +69,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Scaling Vision Transformers to 22 Billion Parameters](https://arxiv.org/abs/2302.05442)
 * ✅ [Better plain ViT baselines for ImageNet-1k](https://arxiv.org/pdf/2205.01580)
 * ❌ [Getting ViT in Shape: Scaling Laws for Compute-Optimal Model Design](https://proceedings.neurips.cc/paper_files/paper/2023/file/3504a4fa45685d668ce92797fbbf1895-Paper-Conference.pdf)
-* ❌ [Vision Transformers Don't Need Trained Registers](https://www.arxiv.org/abs/2506.08010)
+* ✅ 06/2025: [Vision Transformers Don't Need Trained Registers](https://www.arxiv.org/abs/2506.08010)
 
 ### Geometric Deep Learning
 * ❌ [Graph Attention Networks](https://arxiv.org/abs/1710.10903)
