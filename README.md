@@ -47,6 +47,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [AM-RADIO: Agglomerative Vision Foundation Model -- Reduce All Domains Into One](https://arxiv.org/abs/2312.06709)
 * ❌ [RayZer: A Self-supervised Large View Synthesis Model](https://arxiv.org/abs/2505.00702)
 * ❌ [Cross-View Completion Models are Zero-shot Correspondence Estimators](https://arxiv.org/abs/2412.09072)
+* ❌ [Test3R: Learning to Reconstruct 3D at Test Time](https://arxiv.org/abs/2506.13750)
 
 ### Image Genearation / Diffusion
 * ✅ 05/2025: [Consistency Models](https://arxiv.org/abs/2303.01469)
