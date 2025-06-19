@@ -30,6 +30,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [MOCA: Self-supervised Representation Learning by Predicting Masked Online Codebook Assignments](https://arxiv.org/abs/2307.09361)
 * ❌ [Scaling Language-Free Visual Representation Learning](https://arxiv.org/abs/2504.01017)
 * ❌ [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985)
+* ❌ [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
 
 
 ### 3D Computer Vision
