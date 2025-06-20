@@ -31,6 +31,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Scaling Language-Free Visual Representation Learning](https://arxiv.org/abs/2504.01017)
 * ❌ [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985)
 * 🚀 06/2025: [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
+* ❌ [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](https://arxiv.org/pdf/2301.08243)
 
 
 ### 3D Computer Vision
