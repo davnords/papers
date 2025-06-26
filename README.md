@@ -43,7 +43,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [MVSAnywhere: Zero-Shot Multi-View Stereo](https://nianticlabs.github.io/mvsanywhere/resources/MVSAnywhere.pdf)
 * ❌ [Feat2GS: Probing Visual Foundation Models with Gaussian Splatting](https://arxiv.org/abs/2412.09606)
 * ❌ [RoMa: Robust dense feature matching](https://arxiv.org/abs/2305.15404)
-* ❌ [DeDoDe: Detect, don’t describe—Describe, don’t detect for local feature matching](https://arxiv.org/abs/2308.08479)
+* ✅ 06/2025: [DeDoDe: Detect, don’t describe—Describe, don’t detect for local feature matching](https://arxiv.org/abs/2308.08479)
 * ❌ [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)
 * ❌ [MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion](https://arxiv.org/abs/2409.19152)
 * ❌ [Feat2GS: Probing Visual Foundation Models with Gaussian Splatting](https://arxiv.org/abs/2412.09606)
