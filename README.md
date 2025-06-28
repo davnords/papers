@@ -33,6 +33,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * 🚀 06/2025: [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
 * ❌ [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](https://arxiv.org/pdf/2301.08243)
 * ❌ [Revisiting Feature Prediction for Learning Visual Representations from Video](https://arxiv.org/abs/2404.08471)
+* ❌ [Beyond [cls]: Exploring the true potential of Masked Image Modeling representations](https://arxiv.org/abs/2412.03215)
 
 
 ### 3D Computer Vision
