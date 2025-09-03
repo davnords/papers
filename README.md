@@ -98,7 +98,12 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Foundations of Computer Vision](https://visionbook.mit.edu/taxonomy.html#helmholtz-perception-as-inference)
 * ❌ [Reinforcement Learning an Introduction](http://incompleteideas.net/book/RLbook2020.pdf)
 
-## Blocks
+## Blogs
 * ❌ [Generative modelling in latent space](https://sander.ai/2025/04/15/latents.html)
 * ❌ [Noise schedules considered harmful](https://sander.ai/2024/06/14/noise-schedules.html)
 * ❌ [Diffusion is spectral autoregression](https://sander.ai/2024/09/02/spectral-autoregression.html)
+
+## High performance computing
+* ❌ [Anatomy of High-Performance Matrix Multiplication](https://www.cs.utexas.edu/~flame/pubs/GotoTOMS_revision.pdf)
+* ❌ [Inside vLLM: Anatomy of a High-Throughput LLM Inference System](https://www.aleksagordic.com/blog/vllm)
+
