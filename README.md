@@ -53,6 +53,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Cross-View Completion Models are Zero-shot Correspondence Estimators](https://arxiv.org/abs/2412.09072)
 * ❌ [Test3R: Learning to Reconstruct 3D at Test Time](https://arxiv.org/abs/2506.13750)
 * ❌ [VGGT-Long: Chunk it, Loop it, Align it -- Pushing VGGT's Limits on Kilometer-scale Long RGB Sequences](https://arxiv.org/abs/2507.16443)
+* ❌ [FastVGGT: Training-Free Acceleration of Visual Geometry Transformer](https://arxiv.org/abs/2509.02560)
 
 ### Image Genearation / Diffusion
 * ✅ 05/2025: [Consistency Models](https://arxiv.org/abs/2303.01469)
