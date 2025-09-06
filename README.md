@@ -106,4 +106,4 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 ## High performance computing
 * ❌ [Anatomy of High-Performance Matrix Multiplication](https://www.cs.utexas.edu/~flame/pubs/GotoTOMS_revision.pdf)
 * ❌ [Inside vLLM: Anatomy of a High-Throughput LLM Inference System](https://www.aleksagordic.com/blog/vllm)
-
+* ❌ [GPU glossary](https://modal.com/gpu-glossary)
