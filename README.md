@@ -24,7 +24,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ✅ 06/2025: [Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://arxiv.org/abs/2006.07733)
 * ✅ 09/2025: [Mean Teachers are Better Role Models: Weight-Averaged Consistency Targets Improve Semi-Supervised Deep Learning Results](https://arxiv.org/abs/1703.01780)
 * ❌ [Emerging Properties in Self-Supervised Vision Transformers](https://openaccess.thecvf.com/content/ICCV2021/html/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.html)
-* ❌ [Scaling Vision Pre-Training to 4K Resolution](https://arxiv.org/abs/2503.19903v1)
+* ✅ 09/2025: [Scaling Vision Pre-Training to 4K Resolution](https://arxiv.org/abs/2503.19903v1)
 * ❌ [Generative Pretraining from Pixels](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)
 * ❌ [MultiMAE: Multi-modal Multi-task Masked Autoencoders](https://arxiv.org/abs/2204.01678)
 * ❌ [MOCA: Self-supervised Representation Learning by Predicting Masked Online Codebook Assignments](https://arxiv.org/abs/2307.09361)
