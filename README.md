@@ -80,7 +80,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Getting ViT in Shape: Scaling Laws for Compute-Optimal Model Design](https://proceedings.neurips.cc/paper_files/paper/2023/file/3504a4fa45685d668ce92797fbbf1895-Paper-Conference.pdf)
 * ✅ 06/2025: [Vision Transformers Don't Need Trained Registers](https://www.arxiv.org/abs/2506.08010)
 * ✅ 06/2025: [Scaling Laws of Motion Forecasting and Planning A Technical Report](https://arxiv.org/pdf/2506.08228)
-* ❌ [LayerLock: Non-collapsing Representation Learning with Progressive Freezing](https://arxiv.org/abs/2509.10156)
+* ✅ 09/2025: [LayerLock: Non-collapsing Representation Learning with Progressive Freezing](https://arxiv.org/abs/2509.10156)
 
 ### Geometric Deep Learning
 * ❌ [Graph Attention Networks](https://arxiv.org/abs/1710.10903)
