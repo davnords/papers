@@ -65,7 +65,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 ### General Computer Vision
 * ✅ 03/2025: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
 * ✅ 03/2025: [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/abs/2404.02905)
-* ❌ [Segment Anything (SAM)](https://arxiv.org/abs/2304.02643)
+* ✅ 09/2025: [Segment Anything (SAM)](https://arxiv.org/abs/2304.02643)
 * ❌ [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
 * ❌ [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/abs/2103.00020)
 * ❌ [Sigmoid Loss for Language Image Pre-Training](https://arxiv.org/abs/2303.15343)
