@@ -34,6 +34,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](https://arxiv.org/pdf/2301.08243)
 * ❌ [Revisiting Feature Prediction for Learning Visual Representations from Video](https://arxiv.org/abs/2404.08471)
 * ✅ 06/2025: [Beyond [cls]: Exploring the true potential of Masked Image Modeling representations](https://arxiv.org/abs/2412.03215)
+* ❌ [Joint Embedding vs Reconstruction: Provable Benefits of Latent Space Prediction for Self Supervised Learning](https://arxiv.org/abs/2505.12477)
 
 
 ### 3D Computer Vision
@@ -83,6 +84,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ✅ 06/2025: [Vision Transformers Don't Need Trained Registers](https://www.arxiv.org/abs/2506.08010)
 * ✅ 06/2025: [Scaling Laws of Motion Forecasting and Planning A Technical Report](https://arxiv.org/pdf/2506.08228)
 * ✅ 09/2025: [LayerLock: Non-collapsing Representation Learning with Progressive Freezing](https://arxiv.org/abs/2509.10156)
+* ❌ [Back to Basics: Let Denoising Generative Models Denoise](https://arxiv.org/abs/2511.13720)
 
 ### Geometric Deep Learning
 * ❌ [Graph Attention Networks](https://arxiv.org/abs/1710.10903)
