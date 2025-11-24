@@ -57,6 +57,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ✅ 09/2025: [FastVGGT: Training-Free Acceleration of Visual Geometry Transformer](https://arxiv.org/abs/2509.02560)
 * ✅ 09/2025: [MapAnything: Universal Feed-Forward Metric 3D Reconstruction](https://www.arxiv.org/abs/2509.13414)
 * ❌ [Geometry Meets Vision: Revisiting Pretrained Semantics in Distilled Fields](https://arxiv.org/pdf/2510.03104)
+* ❌ [Depth Anything 3: Recovering the Visual Space from Any Views](https://arxiv.org/abs/2511.10647)
 
 ### Image Genearation / Diffusion
 * ✅ 05/2025: [Consistency Models](https://arxiv.org/abs/2303.01469)
