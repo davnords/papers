@@ -100,6 +100,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177)
 * ❌ [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
 * ❌ [On the Biology of LLMs](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
+* ❌ [Deep Learning is Not So Mysterious or Different](https://arxiv.org/pdf/2503.02113)
  
 ## Books
 * ❌ [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
