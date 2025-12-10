@@ -90,6 +90,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ✅ 06/2025: [Scaling Laws of Motion Forecasting and Planning A Technical Report](https://arxiv.org/pdf/2506.08228)
 * ✅ 09/2025: [LayerLock: Non-collapsing Representation Learning with Progressive Freezing](https://arxiv.org/abs/2509.10156)
 * ❌ [Back to Basics: Let Denoising Generative Models Denoise](https://arxiv.org/abs/2511.13720)
+* ❌ [Can You Learn to See Without Images? Procedural Warm-Up for Vision Transformers](https://arxiv.org/abs/2511.13945)
 
 ### Geometric Deep Learning
 * ❌ [Graph Attention Networks](https://arxiv.org/abs/1710.10903)
