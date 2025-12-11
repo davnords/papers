@@ -63,6 +63,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ✅ 11/2025: [DUNE: Distilling a Universal Encoder from heterogenous 2D and 3D teachers](https://openaccess.thecvf.com/content/CVPR2025/papers/Sariyildiz_DUNE_Distilling_a_Universal_Encoder_from_Heterogeneous_2D_and_3D_CVPR_2025_paper.pdf)
 * ❌ [Uncalibrated Structure from Motion on a Sphere](https://openaccess.thecvf.com/content/ICCV2025/papers/Ventura_Uncalibrated_Structure_from_Motion_on_a_Sphere_ICCV_2025_paper.pdf)
 * ❌ [Multi-View Pyramid Transformer](https://gynjn.github.io/MVP/)
+* ❌ [Efficiently Reconstructing Dynamic Scenes One D4RT at a Time](https://arxiv.org/pdf/2512.08924)
 
 ### Image Genearation / Diffusion
 * ✅ 05/2025: [Consistency Models](https://arxiv.org/abs/2303.01469)
