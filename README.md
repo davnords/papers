@@ -64,6 +64,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Uncalibrated Structure from Motion on a Sphere](https://openaccess.thecvf.com/content/ICCV2025/papers/Ventura_Uncalibrated_Structure_from_Motion_on_a_Sphere_ICCV_2025_paper.pdf)
 * ❌ [Multi-View Pyramid Transformer](https://gynjn.github.io/MVP/)
 * ❌ [Efficiently Reconstructing Dynamic Scenes One D4RT at a Time](https://arxiv.org/pdf/2512.08924)
+* ❌ [Any4D: Unified Feed-Forward Metric 4D Reconstruction](https://any-4d.github.io/)
 
 ### Image Genearation / Diffusion
 * ✅ 05/2025: [Consistency Models](https://arxiv.org/abs/2303.01469)
