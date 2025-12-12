@@ -65,6 +65,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Multi-View Pyramid Transformer](https://gynjn.github.io/MVP/)
 * ❌ [Efficiently Reconstructing Dynamic Scenes One D4RT at a Time](https://arxiv.org/pdf/2512.08924)
 * ❌ [Any4D: Unified Feed-Forward Metric 4D Reconstruction](https://any-4d.github.io/)
+* ❌ [E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training](https://arxiv.org/abs/2512.10950)
 
 ### Image Genearation / Diffusion
 * ✅ 05/2025: [Consistency Models](https://arxiv.org/abs/2303.01469)
