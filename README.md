@@ -36,7 +36,6 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ✅ 06/2025: [Beyond [cls]: Exploring the true potential of Masked Image Modeling representations](https://arxiv.org/abs/2412.03215)
 * ❌ [Joint Embedding vs Reconstruction: Provable Benefits of Latent Space Prediction for Self Supervised Learning](https://arxiv.org/abs/2505.12477)
 
-
 ### 3D Computer Vision
 * ✅ 03/2025: [VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/abs/2503.11651)
 * ✅ 03/2025: [DKM: Dense Kernelized Feature Matching for Geometry Estimation](https://arxiv.org/abs/2202.00667)
@@ -67,6 +66,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Any4D: Unified Feed-Forward Metric 4D Reconstruction](https://any-4d.github.io/)
 * ❌ [E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training](https://arxiv.org/abs/2512.10950)
 * ❌ [On Geometric Understanding and Learned Data Priors in VGGT](https://arxiv.org/abs/2512.11508)
+* ❌ [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/pdf/2407.08447)
 
 ### Image Genearation / Diffusion
 * ✅ 05/2025: [Consistency Models](https://arxiv.org/abs/2303.01469)
