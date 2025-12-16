@@ -67,6 +67,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training](https://arxiv.org/abs/2512.10950)
 * ❌ [On Geometric Understanding and Learned Data Priors in VGGT](https://arxiv.org/abs/2512.11508)
 * ❌ [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/pdf/2407.08447)
+* ❌ [Warp Consistency for Unsupervised Learning of Dense Correspondences](https://openaccess.thecvf.com/content/ICCV2021/papers/Truong_Warp_Consistency_for_Unsupervised_Learning_of_Dense_Correspondences_ICCV_2021_paper.pdf)
 
 ### Image Genearation / Diffusion
 * ✅ 05/2025: [Consistency Models](https://arxiv.org/abs/2303.01469)
