@@ -35,6 +35,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Revisiting Feature Prediction for Learning Visual Representations from Video](https://arxiv.org/abs/2404.08471)
 * ✅ 06/2025: [Beyond [cls]: Exploring the true potential of Masked Image Modeling representations](https://arxiv.org/abs/2412.03215)
 * ❌ [Joint Embedding vs Reconstruction: Provable Benefits of Latent Space Prediction for Self Supervised Learning](https://arxiv.org/abs/2505.12477)
+* ❌ [Next-Embedding Prediction Makes Strong Vision Learners](https://arxiv.org/abs/2512.16922)
 
 ### 3D Computer Vision
 * ✅ 03/2025: [VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/abs/2503.11651)
