@@ -72,12 +72,8 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting](https://arxiv.org/pdf/2512.15508)
 * ❌ [Multi-View Foundation Models](https://arxiv.org/pdf/2512.15708)
 
-### Image Genearation / Diffusion
-* ✅ 05/2025: [Consistency Models](https://arxiv.org/abs/2303.01469)
-* ❌ [One-Minute Video Generation with Test-Time Training](https://arxiv.org/abs/2504.05298)
-* ❌ [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937)
-* ❌ [Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2012.09841)
-* ❌ [SANA-Sprint: One-Step Diffusion with Continuous-Time Consistency Distillation](https://arxiv.org/pdf/2503.09641)
+### GPU Programming
+* ❌ [Inside NVIDIA GPUs: Anatomy of high performance matmul kernels](https://www.aleksagordic.com/blog/matmul)
 
 ### General Computer Vision
 * ✅ 03/2025: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
@@ -101,6 +97,13 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Back to Basics: Let Denoising Generative Models Denoise](https://arxiv.org/abs/2511.13720)
 * ❌ [Can You Learn to See Without Images? Procedural Warm-Up for Vision Transformers](https://arxiv.org/abs/2511.13945)
 
+### Image Genearation / Diffusion
+* ✅ 05/2025: [Consistency Models](https://arxiv.org/abs/2303.01469)
+* ❌ [One-Minute Video Generation with Test-Time Training](https://arxiv.org/abs/2504.05298)
+* ❌ [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937)
+* ❌ [Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2012.09841)
+* ❌ [SANA-Sprint: One-Step Diffusion with Continuous-Time Consistency Distillation](https://arxiv.org/pdf/2503.09641)
+
 ### Geometric Deep Learning
 * ❌ [Graph Attention Networks](https://arxiv.org/abs/1710.10903)
 
@@ -122,6 +125,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 * ❌ [Foundations of Computer Vision](https://visionbook.mit.edu/taxonomy.html#helmholtz-perception-as-inference)
 * ❌ [Reinforcement Learning an Introduction](http://incompleteideas.net/book/RLbook2020.pdf)
+* ❌ [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
 
 ## Blogs
 * ❌ [Generative modelling in latent space](https://sander.ai/2025/04/15/latents.html)
