@@ -107,7 +107,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 ### NLP 
 * ✅ 04/2025: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 * ❌ [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
-* ❌ [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538)
+* ✅ 12/2025: [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538)
 * ❌ [LLM architecture comparison (blog)](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)
 
 ### General Deep Learning 
