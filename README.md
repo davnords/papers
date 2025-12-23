@@ -74,6 +74,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 
 ### GPU Programming
 * ❌ [Inside NVIDIA GPUs: Anatomy of high performance matmul kernels](https://www.aleksagordic.com/blog/matmul)
+* ❌ [ELI5: FlashAttention](https://gordicaleksa.medium.com/eli5-flash-attention-5c44017022ad)
 
 ### General Computer Vision
 * ✅ 03/2025: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
