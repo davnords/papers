@@ -98,7 +98,8 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ✅ 09/2025: [LayerLock: Non-collapsing Representation Learning with Progressive Freezing](https://arxiv.org/abs/2509.10156)
 * ❌ [Back to Basics: Let Denoising Generative Models Denoise](https://arxiv.org/abs/2511.13720)
 * ❌ [Can You Learn to See Without Images? Procedural Warm-Up for Vision Transformers](https://arxiv.org/abs/2511.13945)
-* https://arxiv.org/abs/2512.19941 
+* https://arxiv.org/abs/2512.19941
+* https://arxiv.org/pdf/2602.08626
 
 ### Image Genearation / Diffusion
 * ✅ 05/2025: [Consistency Models](https://arxiv.org/abs/2303.01469)
