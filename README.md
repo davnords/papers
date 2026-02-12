@@ -107,6 +107,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937)
 * ❌ [Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2012.09841)
 * ❌ [SANA-Sprint: One-Step Diffusion with Continuous-Time Consistency Distillation](https://arxiv.org/pdf/2503.09641)
+* https://arxiv.org/abs/2602.04770
 
 ### Geometric Deep Learning
 * ❌ [Graph Attention Networks](https://arxiv.org/abs/1710.10903)
