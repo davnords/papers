@@ -137,6 +137,8 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Noise schedules considered harmful](https://sander.ai/2024/06/14/noise-schedules.html)
 * ❌ [Diffusion is spectral autoregression](https://sander.ai/2024/09/02/spectral-autoregression.html)
 
+https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95#file-microgpt-py
+
 ## High performance computing
 * ❌ [Anatomy of High-Performance Matrix Multiplication](https://www.cs.utexas.edu/~flame/pubs/GotoTOMS_revision.pdf)
 * ❌ [Inside vLLM: Anatomy of a High-Throughput LLM Inference System](https://www.aleksagordic.com/blog/vllm)
