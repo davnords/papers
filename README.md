@@ -131,6 +131,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Foundations of Computer Vision](https://visionbook.mit.edu/taxonomy.html#helmholtz-perception-as-inference)
 * ❌ [Reinforcement Learning an Introduction](http://incompleteideas.net/book/RLbook2020.pdf)
 * ❌ [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
+* ❌ [Raw JAX](https://elliotarledge.gumroad.com/l/raw-jax)
 
 ## Blogs
 * ❌ [Generative modelling in latent space](https://sander.ai/2025/04/15/latents.html)
