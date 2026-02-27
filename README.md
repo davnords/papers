@@ -72,6 +72,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting](https://arxiv.org/pdf/2512.15508)
 * ❌ [Multi-View Foundation Models](https://arxiv.org/pdf/2512.15708)
 * http://arxiv.org/pdf/2407.08447
+* ❌ [VGG-T3: Offline Feed-Forward 3D Reconstruction at Scale](https://arxiv.org/pdf/2602.23361)
 
 ### GPU Programming
 * ❌ [Inside NVIDIA GPUs: Anatomy of high performance matmul kernels](https://www.aleksagordic.com/blog/matmul)
