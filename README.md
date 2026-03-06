@@ -73,6 +73,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Multi-View Foundation Models](https://arxiv.org/pdf/2512.15708)
 * http://arxiv.org/pdf/2407.08447
 * ❌ [VGG-T3: Offline Feed-Forward 3D Reconstruction at Scale](https://arxiv.org/pdf/2602.23361)
+* https://arxiv.org/html/2603.04385v1
 
 ### GPU Programming
 * ❌ [Inside NVIDIA GPUs: Anatomy of high performance matmul kernels](https://www.aleksagordic.com/blog/matmul)
