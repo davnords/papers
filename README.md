@@ -139,6 +139,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Generative modelling in latent space](https://sander.ai/2025/04/15/latents.html)
 * ❌ [Noise schedules considered harmful](https://sander.ai/2024/06/14/noise-schedules.html)
 * ❌ [Diffusion is spectral autoregression](https://sander.ai/2024/09/02/spectral-autoregression.html)
+* ✅ 03/2026: [How to win a best paper award](https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html)
 
 https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95#file-microgpt-py
 
