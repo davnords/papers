@@ -103,6 +103,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * ❌ [Can You Learn to See Without Images? Procedural Warm-Up for Vision Transformers](https://arxiv.org/abs/2511.13945)
 * https://arxiv.org/abs/2512.19941
 * https://arxiv.org/pdf/2602.08626
+* https://arxiv.org/abs/2512.16975
 
 ### Image Genearation / Diffusion
 * ✅ 05/2025: [Consistency Models](https://arxiv.org/abs/2303.01469)
