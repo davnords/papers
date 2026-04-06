@@ -75,6 +75,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * http://arxiv.org/pdf/2407.08447
 * ✅ 03/2026: [VGG-T3: Offline Feed-Forward 3D Reconstruction at Scale](https://arxiv.org/pdf/2602.23361)
 * https://arxiv.org/html/2603.04385v1
+* ❌ [MeshLoc](https://arxiv.org/pdf/2407.20219)
 
 ### GPU Programming
 * ❌ [Inside NVIDIA GPUs: Anatomy of high performance matmul kernels](https://www.aleksagordic.com/blog/matmul)
