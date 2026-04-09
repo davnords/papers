@@ -106,6 +106,7 @@ I categorize papers by those I have read and those I have yet to read. Later, I 
 * https://arxiv.org/pdf/2602.08626
 * https://arxiv.org/abs/2512.16975
 * [A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens](https://arxiv.org/abs/2604.04913)
+https://arxiv.org/abs/2205.13147
 
 ### Image Genearation / Diffusion
 * ✅ 05/2025: [Consistency Models](https://arxiv.org/abs/2303.01469)
